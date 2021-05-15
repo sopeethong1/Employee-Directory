@@ -1,0 +1,17 @@
+.header {
+  background: #b71775;
+  height: 200px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 75px;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.App-Logo {
+  height: 50px;
+  width: 50px;
+}
