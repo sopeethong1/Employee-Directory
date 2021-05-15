@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import React from "react";
 import API from "../utils/API";
+import Table from './Table';
+
 
 export default class Body extends Component {
 	
