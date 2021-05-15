@@ -1,6 +1,7 @@
 
 import Body from "./components/Body";
 import Header from "./components/Header";
+import Table from "./components/Table";
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <Body />
+      <Table />
     </div>
   );
 }
